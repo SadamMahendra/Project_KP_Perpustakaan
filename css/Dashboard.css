@@ -1,0 +1,50 @@
+.sidebar {
+  margin-top: 68px;
+  height: 100vh;
+}
+
+.isi_sidebar {
+  margin-left: 10px;
+}
+
+.nav-link:hover {
+  background-color: grey;
+}
+
+.display-4 {
+  font-weight: bold;
+}
+
+.nav-link.active {
+  background-color: grey;
+}
+
+.logo-user {
+  margin: auto;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+}
+
+/* cardnya */
+.card {
+  margin-left: 50px;
+}
+/* icon yang ada di card */
+.card-body-icon {
+  position: absolute;
+  z-index: 0;
+  top: 18px;
+  right: 20px;
+  opacity: 0.4;
+  font-size: 90px;
+}
+
+/* link yang ada di card */
+.card-link {
+  text-decoration: none;
+}
+
+.card-link:hover {
+  text-decoration: underline;
+}
